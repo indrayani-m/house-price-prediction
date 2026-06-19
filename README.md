@@ -83,8 +83,6 @@ Evaluation metrics used:
 
 ## Results
 
-## Results
-
 | Model | MAE | RMSE | R² Score |
 |--------|--------:|--------:|--------:|
 | Linear Regression | 9.700434e+05 | 1.324507e+06 | 0.652924 |
